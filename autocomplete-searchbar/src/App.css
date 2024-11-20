@@ -1,0 +1,11 @@
+.container {
+  margin: 20px;
+}
+input {
+  border: solid 2px rgb(235, 157, 170);
+  border-radius: 5px;
+  padding: 3px;
+}
+ul {
+  margin: 15px;
+}
